@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **react js ,vue js , node js**
+- 💬 Ask me about **Vue js , React js , Node js**
 
 - 📫 How to reach me **bashirdanish124@gmail.com**
 
