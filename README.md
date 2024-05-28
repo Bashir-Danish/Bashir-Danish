@@ -1,8 +1,6 @@
 <h1 >Hi 👋, I'm Bashir Ah Danish</h1>
 <h3 >A passionate MEVN & MERN stack developer from Afghanistan</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **Vue js , React js , Node js**
 
 - 📫 How to reach me **bashirdanish124@gmail.com**
