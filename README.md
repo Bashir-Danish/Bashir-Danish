@@ -33,6 +33,4 @@
 <!--     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bashir-danish&theme=radical" alt="bashir-danish" /> -->
 </div>
 
-<div align="center">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=bashir-danish&theme=radical&row=1" alt="trophy" />
-</div>
+
