@@ -84,21 +84,20 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bashir-danish&show_icons=true&theme=radical&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bashir-danish&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bashir-danish&layout=compact&theme=radical&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bashir-danish&layout=compact&theme=radical&hide_border=true" alt="languages"/>
-  </picture>
+  <a href="https://github.com/bashir-danish">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bashir-danish&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bashir-danish&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bashir-danish&theme=radical&hide_border=true"/>
-    <img src="https://streak-stats.demolab.com/?user=bashir-danish&theme=radical&hide_border=true" alt="streak"/>
-  </picture>
+  <a href="https://github.com/bashir-danish">
+    <img src="https://streak-stats.demolab.com?user=bashir-danish&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bashir-danish&theme=radical&no-frame=true&row=1&column=7" alt="trophy"/>
 </div>
 
 <hr/>
