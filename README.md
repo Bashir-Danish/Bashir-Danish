@@ -75,7 +75,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="openai" height="30"/>
   </a>
 </p>
 
@@ -84,12 +84,21 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashir-danish&show_icons=true&locale=en&layout=compact&theme=radical" alt="bashir-danish"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bashir-danish&show_icons=true&locale=en&theme=radical" alt="bashir-danish"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bashir-danish&show_icons=true&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bashir-danish&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bashir-danish&layout=compact&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bashir-danish&layout=compact&theme=radical&hide_border=true" alt="languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashir-danish&theme=radical" alt="bashir-danish"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bashir-danish&theme=radical&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com/?user=bashir-danish&theme=radical&hide_border=true" alt="streak"/>
+  </picture>
 </div>
 
 <hr/>
