@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bashir%20Ah%20Danish&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/bashir-danish">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Building+scalable+web+%26+mobile+apps;Turning+coffee+into+code;Full+Stack+%7C+Node.js+%2B+Vue+%2B+Flutter;Currently+integrating+AI+into+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+scalable+web+%26+mobile+apps;Turning+coffee+into+code;Full+Stack+%7C+Node.js+%2B+Vue+%2B+%2B+React+%2B+Flutter;Integrating+QBO+%26+Microtick+APIs+into+products" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,7 +15,7 @@
 I'm a full-stack developer who enjoys building things end-to-end — from database schema to pixel-perfect UI.
 
 - <img src="https://api.iconify.design/lucide:target.svg?color=%236C63FF" width="18" height="18" style="vertical-align:middle"/> **Focus:** Scalable web & mobile applications, from architecture to deployment
-- <img src="https://api.iconify.design/lucide:code-2.svg?color=%2300C853" width="18" height="18" style="vertical-align:middle"/> **Currently:** Building a CRM that integrates QuickBooks Online (QBO) API, DeltaSIB accounting, and Microtick API, with shadcn/ui on the frontend
+- <img src="https://api.iconify.design/lucide:code-2.svg?color=%2300C853" width="18" height="18" style="vertical-align:middle"/> **Currently:** Building a CRM that integrates QuickBooks Online (QBO) API, DeltaSIB accounting, and Microtick API
 - <img src="https://api.iconify.design/lucide:bot.svg?color=%238E75B2" width="18" height="18" style="vertical-align:middle"/> **AI:** Building automations by integrating AI models like Grok and Gemini directly into applications
 - <img src="https://api.iconify.design/simple-icons:flutter.svg?color=%2302569B" width="18" height="18" style="vertical-align:middle"/> **Mobile:** Cross-platform development with Flutter & Dart
 - <img src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2341B883" width="18" height="18" style="vertical-align:middle"/> **Web:** MEVN, MERN & Laravel ecosystems
@@ -32,17 +32,19 @@ I'm a full-stack developer who enjoys building things end-to-end — from databa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://api.iconify.design/logos:pinia.svg" alt="pinia" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" alt="zustand" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+   <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=flat&logo=reactquery&logoColor=white" alt="tanstack table"/>
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="pwa"/>
-  <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=flat&logo=reactquery&logoColor=white" alt="tanstack table"/>
 </p>
 
 <h4>Backend & Database</h4>
