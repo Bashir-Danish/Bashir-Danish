@@ -14,14 +14,14 @@
 
 I'm a full-stack developer who enjoys building things end-to-end — from database schema to pixel-perfect UI.
 
-- <img src="https://api.iconify.design/lucide:target.svg?color=%236C63FF" width="18" height="18" style="vertical-align:middle"/> **Focus:** Scalable web & mobile applications, from architecture to deployment
-- <img src="https://api.iconify.design/lucide:code-2.svg?color=%2300C853" width="18" height="18" style="vertical-align:middle"/> **Currently:** Building a CRM that integrates QuickBooks Online (QBO) API, DeltaSIB accounting, and Microtick API
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%238E75B2" width="18" height="18" style="vertical-align:middle"/> **AI:** Building automations by integrating AI models like Grok and Gemini directly into applications
-- <img src="https://api.iconify.design/simple-icons:flutter.svg?color=%2302569B" width="18" height="18" style="vertical-align:middle"/> **Mobile:** Cross-platform development with Flutter & Dart
-- <img src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2341B883" width="18" height="18" style="vertical-align:middle"/> **Web:** MEVN, MERN & Laravel ecosystems
-- <img src="https://api.iconify.design/lucide:brain.svg?color=%23FF9800" width="18" height="18" style="vertical-align:middle"/> **How I work:** Self-directed learner — I like understanding systems deeply enough to rebuild them, not just use them
-- <img src="https://api.iconify.design/lucide:mail.svg?color=%23EA4335" width="18" height="18" style="vertical-align:middle"/> **Reach me:** [bashirdanish124@gmail.com](mailto:bashirdanish124@gmail.com)
-- <img src="https://api.iconify.design/lucide:coffee.svg?color=%236F4E37" width="18" height="18" style="vertical-align:middle"/> **Fun fact:** I love turning coffee into code
+- <img src="https://api.iconify.design/lucide:target.svg?color=%236C63FF" width="15" height="15" style="vertical-align: -3px"/> **Focus:** Scalable web & mobile applications, from architecture to deployment
+- <img src="https://api.iconify.design/lucide:code-2.svg?color=%2300C853" width="15" height="15" style="vertical-align: -3px"/> **Currently:** Building a CRM that integrates QuickBooks Online (QBO) API, DeltaSIB accounting, and Microtick API
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%238E75B2" width="15" height="15" style="vertical-align: -3px"/> **AI:** Building automations by integrating AI models like Grok and Gemini directly into applications
+- <img src="https://api.iconify.design/simple-icons:flutter.svg?color=%2302569B" width="15" height="15" style="vertical-align: -3px"/> **Mobile:** Cross-platform development with Flutter & Dart
+- <img src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2341B883" width="15" height="15" style="vertical-align: -3px"/> **Web:** MEVN, MERN & Laravel ecosystems
+- <img src="https://api.iconify.design/lucide:brain.svg?color=%23FF9800" width="15" height="15" style="vertical-align: -3px"/> **How I work:** Self-directed learner — I like understanding systems deeply enough to rebuild them, not just use them
+- <img src="https://api.iconify.design/lucide:mail.svg?color=%23EA4335" width="15" height="15" style="vertical-align: -3px"/> **Reach me:** [bashirdanish124@gmail.com](mailto:bashirdanish124@gmail.com)
+- <img src="https://api.iconify.design/lucide:coffee.svg?color=%236F4E37" width="15" height="15" style="vertical-align: -3px"/> **Fun fact:** I love turning coffee into code
 
 <br/>
 
