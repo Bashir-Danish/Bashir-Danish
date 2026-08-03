@@ -15,7 +15,7 @@
 I'm a full-stack developer who enjoys building things end-to-end — from database schema to pixel-perfect UI.
 
 - 🎯 **Focus:** Scalable web & mobile applications, from architecture to deployment
-- 🏗️ **Currently:** Working on production systems spanning CRM platforms and billing/network management, with real-world third-party API integrations (QuickBooks Online) and shadcn/ui on the frontend
+- 🏗️ **Currently:** Building a CRM that integrates QuickBooks Online (QBO) API, DeltaSIB accounting, and Microtick API, with shadcn/ui on the frontend
 - 🤖 **AI:** Building automations by integrating AI models like Grok and Gemini directly into applications
 - 📱 **Mobile:** Cross-platform development with Flutter & Dart
 - 🌐 **Web:** MEVN, MERN & Laravel ecosystems
@@ -36,38 +36,50 @@ I'm a full-stack developer who enjoys building things end-to-end — from databa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui" height="40"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="pwa"/>
+  <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=flat&logo=reactquery&logoColor=white" alt="tanstack table"/>
 </p>
 
 <h4>Backend & Database</h4>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40" style="vertical-align:middle"/>
+</p>
+
+<h4>Desktop</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="vertical-align:middle"/>
 </p>
 
 <h4>Mobile</h4>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40" style="vertical-align:middle"/>
 </p>
 
 <h4>AI & Automation</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white" alt="grok" height="30"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="gemini" height="30"/>
-  <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="openai" height="30"/>
-  <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=quickbooks&logoColor=white" alt="quickbooks" height="30"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white" alt="grok" height="40" style="vertical-align:middle"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="gemini" height="40" style="vertical-align:middle"/>
+  <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="openai" height="40" style="vertical-align:middle"/>
+  <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=quickbooks&logoColor=white" alt="quickbooks" height="40" style="vertical-align:middle"/>
 </p>
 
 <h4>Tools</h4>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40" style="vertical-align:middle"/>
 </p>
 
 <br/>
