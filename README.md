@@ -3,29 +3,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bashir%20Ah%20Danish&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/bashir-danish">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Building+scalable+web+%26+mobile+apps;Turning+coffee+into+code+%E2%98%95;Full+Stack+%7C+Node.js+%2B+Vue+%2B+Flutter;Currently+integrating+AI+into+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Building+scalable+web+%26+mobile+apps;Turning+coffee+into+code;Full+Stack+%7C+Node.js+%2B+Vue+%2B+Flutter;Currently+integrating+AI+into+real+products" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-## 💫 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="28"> About Me
 
 I'm a full-stack developer who enjoys building things end-to-end — from database schema to pixel-perfect UI.
 
-- 🎯 **Focus:** Scalable web & mobile applications, from architecture to deployment
-- 🏗️ **Currently:** Building a CRM that integrates QuickBooks Online (QBO) API, DeltaSIB accounting, and Microtick API, with shadcn/ui on the frontend
-- 🤖 **AI:** Building automations by integrating AI models like Grok and Gemini directly into applications
-- 📱 **Mobile:** Cross-platform development with Flutter & Dart
-- 🌐 **Web:** MEVN, MERN & Laravel ecosystems
-- 🧠 **How I work:** Self-directed learner — I like understanding systems deeply enough to rebuild them, not just use them
-- 📫 **Reach me:** [bashirdanish124@gmail.com](mailto:bashirdanish124@gmail.com)
-- ☕ **Fun fact:** I love turning coffee into code
+- <img src="https://api.iconify.design/lucide:target.svg?color=%236C63FF" width="18" height="18" style="vertical-align:middle"/> **Focus:** Scalable web & mobile applications, from architecture to deployment
+- <img src="https://api.iconify.design/lucide:code-2.svg?color=%2300C853" width="18" height="18" style="vertical-align:middle"/> **Currently:** Building a CRM that integrates QuickBooks Online (QBO) API, DeltaSIB accounting, and Microtick API, with shadcn/ui on the frontend
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%238E75B2" width="18" height="18" style="vertical-align:middle"/> **AI:** Building automations by integrating AI models like Grok and Gemini directly into applications
+- <img src="https://api.iconify.design/simple-icons:flutter.svg?color=%2302569B" width="18" height="18" style="vertical-align:middle"/> **Mobile:** Cross-platform development with Flutter & Dart
+- <img src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2341B883" width="18" height="18" style="vertical-align:middle"/> **Web:** MEVN, MERN & Laravel ecosystems
+- <img src="https://api.iconify.design/lucide:brain.svg?color=%23FF9800" width="18" height="18" style="vertical-align:middle"/> **How I work:** Self-directed learner — I like understanding systems deeply enough to rebuild them, not just use them
+- <img src="https://api.iconify.design/lucide:mail.svg?color=%23EA4335" width="18" height="18" style="vertical-align:middle"/> **Reach me:** [bashirdanish124@gmail.com](mailto:bashirdanish124@gmail.com)
+- <img src="https://api.iconify.design/lucide:coffee.svg?color=%236F4E37" width="18" height="18" style="vertical-align:middle"/> **Fun fact:** I love turning coffee into code
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-6617-44c6-930f-b43716086782.gif" width="25"> Tech Stack
 
 <h4>Frontend</h4>
 <p align="left">
@@ -84,7 +84,7 @@ I'm a full-stack developer who enjoys building things end-to-end — from databa
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212284200-9614494a-e790-4763-9a75-40fc1d69cf5b.gif" width="28"> GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bashir-danish&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
@@ -101,7 +101,7 @@ I'm a full-stack developer who enjoys building things end-to-end — from databa
 
 <br/>
 
-## 🤝 Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="28"> Let's Connect
 
 <p align="left">
   <a href="mailto:bashirdanish124@gmail.com">
@@ -116,7 +116,7 @@ I'm a full-stack developer who enjoys building things end-to-end — from databa
 </div>
 
 <p align="center">
-  <i>✨ "Turning ideas into reality, one line of code at a time" ✨</i>
+  <i>"Turning ideas into reality, one line of code at a time"</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
