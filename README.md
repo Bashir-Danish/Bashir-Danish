@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bashir%20Ah%20Danish&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bashir%20Ah%20Danish&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/bashir-danish">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+scalable+web+%26+mobile+apps;Turning+coffee+into+code;Full+Stack+%7C+Node.js+%2B+Vue+%2B+%2B+React+%2B+Flutter;Integrating+QBO+%26+Microtick+APIs+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+scalable+web+%26+mobile+apps;Turning+coffee+into+code;Full+Stack+%7C+Node.js+%2B+Vue+%2B+React+%2B+Flutter;Integrating+QBO+%26+Microtick+APIs+into+products" alt="Typing SVG" />
 </a>
 
 </div>
@@ -43,7 +43,7 @@ I'm a full-stack developer who enjoys building things end-to-end — from databa
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-   <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=flat&logo=reactquery&logoColor=white" alt="tanstack table"/>
+  <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=flat&logo=reactquery&logoColor=white" alt="tanstack table"/>
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="pwa"/>
 </p>
 
